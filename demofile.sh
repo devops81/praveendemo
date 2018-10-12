@@ -1,1 +1,1 @@
-$ echo "Today is $(date)"
+echo "its coming unde rhte shell script"
